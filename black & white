@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>black & white</title>
+  </head>
+  <body>
+      <center><h1 style="font-size: 100px">black & white </h1></center>
+      <hr />
+      <center>
+        <img
+          style="width: 300px"
+          src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+          alt="hero image"
+        />
+        </center>
+         
+       <center>
+        <p><i>New edition of IMAG inSEA MAGAZINE!</i></p>
+        <p><h1><u> New edition of <mark><font size="6" color="red">IMAG inSEA MAGAZINE!</font> </mark> </u></h1></p>
+         <h3 style="width: 50vw; text-align: justify; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio quos maiores aliquam similique nihil mollitia debitis voluptatibus quis voluptate, ab ipsum error consectetur
+         placeat dolore id voluptates repellat ratione amet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, officia? Omnis eius voluptatum recusandae corrupti inventore aperiam 
+         deserunt eligendi facere nobis officia praesentium, ad qui aut assumenda officiis alias Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur minima, amet ad repudiandae 
+         impedit quaerat rerum, tempora <strong> old</strong><b> new</b> dicta excepturi natus neque molestias quasi necessitatibus ducimus tempore ipsam aliquam veritatis nemo?   
+        </h3> </center>  
+    <center>
+      
+      <center><h1 style="font-size: 80px;">Grid</h1></center>
+      <hr>
+      <br>
+      <table style="width: 600px; column-gap: 2px;">
+        <tr>
+          <td>
+            <center>
+              <img
+                width="200px"
+                src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+                alt="hero image"
+              />
+              <h4><em title="Open it">magnisficant</em></h4>
+              <h5>Lorem ipsum dolor sit amet, consectetur adipis</h5>
+            </center>
+          </td>
+          <td>
+            <center>
+              <img
+                width="200px"
+                src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+                alt="hero image"
+              />
+              <h4> <em title="Open it">absolute</em></h4>
+              <h5>Lorem ipsum dolor sit amet, consectetur adipis</h5>
+            </center>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <center>
+              <img
+                width="200px"
+                src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+                alt="hero image"
+              />
+              <h4><em title="Open it">masterpiece</em></h4>
+              <h5>Lorem ipsum dolor sit amet, consectetur adipis</h5>
+            </center>
+          </td>
+          <td>
+            <center>
+              <img
+                width="200px"
+                src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+                alt="hero image"
+              />
+              <h4><em title="Open it">blaze</em></h4>
+              <h5>Lorem ipsum dolor sit amet, consectetur adipis</h5>
+            </center>
+          </td>
+        </tr>
+      </table>
+    </center>
+    <hr>
+    <br>
+    <center>
+      <table>
+        <tr>
+          <td>
+            <img
+            width="50px"
+            src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+            alt="hero image"
+          />
+      </td>
+    <td>
+      <img
+      width="50px"
+      src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+      alt="hero image"
+    />
+    </td>
+    <td>
+      <img
+      width="50px"
+      src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+      alt="hero image"
+    />
+</td>
+<td>
+<img
+width="50px"
+src="https://imgs.search.brave.com/xaS1R9gDSh9i0zOsTVo4Hj17gs7QntKzxOTSROrOKEM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbnNl/YS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjEvMDcvaW1h/ZzUuanBn"
+alt="hero image"
+/>
+</td>
+    </tr>
+    </table>
+    </center>
+    <hr>
+    <footer>
+    <center>
+      <h1>Subscribe for <mark><font color="red">Newsletter.</font></mark></h1>
+      <label>username</label><br>
+      <input type="username" placeholder="username"><br>
+      <br>
+      <label>email</label><br>
+      <input type="username" placeholder="email"><br><br>
+      <button style="background-color: rgb(242, 250, 5);"><a href="website1.html"><font color="red" size="3">yes, i want.</font></a></button>
+    </center>
+    <hr>
+    <center>
+      <h4>"© 2024 Black & White. All Rights Reserved."</h4>
+    </center>
+  </footer>
+  </body>
+</html>
